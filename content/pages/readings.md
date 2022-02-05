@@ -48,32 +48,345 @@ Williams, H., F. J. Turner, and C. M. Gilbert. _Petrography, An Introduction to 
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Rock Forming Minerals (RFM)**{{< /td-colspan >}} |||
-| 1 | (RFM) I Olivine and Spinel |  |
-| 2 | RFM II: Feldspars |  |
-| 3 | RFM III Pyroxenes |  |
-| 4 | RFM IV Pyriboles |  |
-| {{< td-colspan 3 >}}**Thermodynamics**{{< /td-colspan >}} |||
-| 5 | 1-Energy Functions-E-S-V and G-T-P-X | Spear. pp. 133-146, 175-183. |
-| 6 | P-T-X Phase Diagrams  {{< br >}}  {{< br >}}Gibbs Phase Rule | Spear. pp. 247-288. |
-| 7 | 2-Exchange Reactions and Equilibrium Constants | Roeder and Emslie. |
-| 8 | 3-Earth's Outer Mantle - Phase Relations and Variation with Tectonic Setting | Hess. Chapter 6. |
-| {{< td-colspan 3 >}}**Petrology**{{< /td-colspan >}} |||
-| 9 | Mantle Rock Types and Processes  {{< br >}}  {{< br >}}Pyroxene Thermobarometry | Boyd.  {{< br >}}  {{< br >}}Wood and Fraser. pp. 134-139. |
-| 10 | Serpentine Stability - Recycling of Mantle  {{< br >}}  {{< br >}}Origin of Mantle Rocks - Igneous vs. Metamorphic Processes |  |
-| 11 | 4-Melting and Crystallization Processes  {{< br >}}  {{< br >}}T-X-X Phase Diagrams (3 Components) Freezing/Melting in Crust and Mantle | Hess. Chapter 2. |
-| 12 | 5-Basalts, Komatiites Rock Series Mantle Melting Processes | Hess. Chapters 8, 9, and 18. |
-| 13 | Mid-term |  |
-| 14 | 6-Phase Equilibria: Silicate + H2O  {{< br >}}  {{< br >}}Magma Generation in Subduction Zones | Hess. Chapter 10. |
-| 15 | 7-Granitic Rocks and Crustal Magmatic Processes | Hess. Chapter 15. |
-| 16 | Continental Crustal Igneous Rocks |  |
-| 17 | The Major Types of Sedimentary Rocks  {{< br >}}  {{< br >}}Distribution of Sediments on the Earth's Surface | Boggs. Chapter 1. |
-| 18 | Metamorphic Petrology 1 - Metamorphic Processes, Contact, Regional, T and P Variations | Spear. Chapter 1. |
-| 19 | Metamorphic Petrology 2 - Metamorphic Facies  {{< br >}}  {{< br >}}Heat Flow and Heat Production in Crust | Spear. Chapter 2.  {{< br >}}  {{< br >}}———. Chapter 3. |
-| 20 | Metamorphic Petrology 3 - Metamorphism of Pelitic Rocks Minerals and Isograds | Spear. Chapter 10. |
-| 21 | Metamorphic Petrology 4 - Pelites - The AKFM System Continuous and Discontinuous Reactions | Spear. Chapter 10. |
-| 22 | Metamorphic Petrology 5 - Metamorphism of Mafic Rocks, Metamorphism | Spear. Chapter 11. |
-| 23 | Greenschists, Blueschists and Eclogites |  |
-| 24 | Metamorphic Petrology 6 - Metamorphism of Calc-silicates | Spear. Chapter 12.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Rock Forming Minerals (RFM)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+(RFM) I Olivine and Spinel
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+RFM II: Feldspars
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+RFM III Pyroxenes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+RFM IV Pyriboles
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Thermodynamics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+1-Energy Functions-E-S-V and G-T-P-X
+{{< tdclose >}}
+{{< tdopen >}}
+Spear. pp. 133-146, 175-183.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+P-T-X Phase Diagrams  
+  
+Gibbs Phase Rule
+{{< tdclose >}}
+{{< tdopen >}}
+Spear. pp. 247-288.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+2-Exchange Reactions and Equilibrium Constants
+{{< tdclose >}}
+{{< tdopen >}}
+Roeder and Emslie.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+3-Earth's Outer Mantle - Phase Relations and Variation with Tectonic Setting
+{{< tdclose >}}
+{{< tdopen >}}
+Hess. Chapter 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Petrology**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Mantle Rock Types and Processes  
+  
+Pyroxene Thermobarometry
+{{< tdclose >}}
+{{< tdopen >}}
+Boyd.  
+  
+Wood and Fraser. pp. 134-139.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Serpentine Stability - Recycling of Mantle  
+  
+Origin of Mantle Rocks - Igneous vs. Metamorphic Processes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+4-Melting and Crystallization Processes  
+  
+T-X-X Phase Diagrams (3 Components) Freezing/Melting in Crust and Mantle
+{{< tdclose >}}
+{{< tdopen >}}
+Hess. Chapter 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+5-Basalts, Komatiites Rock Series Mantle Melting Processes
+{{< tdclose >}}
+{{< tdopen >}}
+Hess. Chapters 8, 9, and 18.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+6-Phase Equilibria: Silicate + H2O  
+  
+Magma Generation in Subduction Zones
+{{< tdclose >}}
+{{< tdopen >}}
+Hess. Chapter 10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+7-Granitic Rocks and Crustal Magmatic Processes
+{{< tdclose >}}
+{{< tdopen >}}
+Hess. Chapter 15.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Continental Crustal Igneous Rocks
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The Major Types of Sedimentary Rocks  
+  
+Distribution of Sediments on the Earth's Surface
+{{< tdclose >}}
+{{< tdopen >}}
+Boggs. Chapter 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Metamorphic Petrology 1 - Metamorphic Processes, Contact, Regional, T and P Variations
+{{< tdclose >}}
+{{< tdopen >}}
+Spear. Chapter 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Metamorphic Petrology 2 - Metamorphic Facies  
+  
+Heat Flow and Heat Production in Crust
+{{< tdclose >}}
+{{< tdopen >}}
+Spear. Chapter 2.  
+  
+———. Chapter 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Metamorphic Petrology 3 - Metamorphism of Pelitic Rocks Minerals and Isograds
+{{< tdclose >}}
+{{< tdopen >}}
+Spear. Chapter 10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Metamorphic Petrology 4 - Pelites - The AKFM System Continuous and Discontinuous Reactions
+{{< tdclose >}}
+{{< tdopen >}}
+Spear. Chapter 10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Metamorphic Petrology 5 - Metamorphism of Mafic Rocks, Metamorphism
+{{< tdclose >}}
+{{< tdopen >}}
+Spear. Chapter 11.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Greenschists, Blueschists and Eclogites
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Metamorphic Petrology 6 - Metamorphism of Calc-silicates
+{{< tdclose >}}
+{{< tdopen >}}
+Spear. Chapter 12.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
