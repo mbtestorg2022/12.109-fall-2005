@@ -8,6 +8,7 @@ image_metadata:
   caption: Sample MU-13, view 3, under plane polarized light.
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-13, view 3, under plane polarized light.
+parent_uid: 322f6394-a4d5-2718-e573-052f38aab20a
 resourcetype: Image
 title: L12_MU_13_3_ppl.jpg
 uid: 747d3d0a-ec4c-6bb8-597f-9edef0b19e01

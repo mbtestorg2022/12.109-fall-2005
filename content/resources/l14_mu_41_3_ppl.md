@@ -8,6 +8,7 @@ image_metadata:
   caption: Sample MU-41, view 3, under plane polarized light.
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-41, view 3, under plane polarized light.
+parent_uid: 22e15bb5-701b-be37-ee5c-95f9afedea7f
 resourcetype: Image
 title: L14_MU_41_3_ppl.jpg
 uid: 548b70ce-fcdd-8353-34d1-1d8e128f7c0f

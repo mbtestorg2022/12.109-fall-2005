@@ -7,6 +7,7 @@ image_metadata:
   caption: Sample MU-64 under plane polarized light.
   credit: Image courtesy of MIT OCW.
   image-alt: Sample MU-64 under plane polarized light.
+parent_uid: 22e15bb5-701b-be37-ee5c-95f9afedea7f
 resourcetype: Image
 title: L14_MU_64_ppl.jpg
 uid: 0132388d-e813-82c6-1d75-badb5afbb634

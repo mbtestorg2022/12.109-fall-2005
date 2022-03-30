@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Cross-section through Mt. Doom.
+parent_uid: 475f89d7-044b-5978-ef28-6936e65fcc57
 resourcetype: Image
 title: Mt. Doom
 uid: 420ace49-e375-99de-9e8c-7f246fd5c3bc
